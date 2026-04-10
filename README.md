@@ -16,6 +16,7 @@ xProof gives every agent action a tamper-proof audit trail anchored on-chain in 
 | [Vercel AI SDK](./vercel/) | TypeScript | Certify AI generations in a Next.js API route |
 | [AutoGen](./autogen/) | Python | Certify messages exchanged between AutoGen agents |
 | [DeerFlow](./deerflow/) | Python | Certify DeerFlow agent outputs via a skill |
+| [Fetch.ai uAgents](./fetchai/) | Python | Anchor WHY+WHAT proofs for every uAgent message handler |
 
 ## Quick start
 
