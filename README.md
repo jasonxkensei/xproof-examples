@@ -17,6 +17,7 @@ xProof gives every agent action a tamper-proof audit trail anchored on-chain in 
 | [AutoGen](./autogen/) | Python | Certify messages exchanged between AutoGen agents |
 | [DeerFlow](./deerflow/) | Python | Certify DeerFlow agent outputs via a skill |
 | [Fetch.ai uAgents](./fetchai/) | Python | Anchor WHY+WHAT proofs for every uAgent message handler |
+| [MultiversX SC MCP](./multiversx-mcp/) | Config | Certify SC deploy/upgrade/call operations via Claude Desktop with both MCPs side by side |
 
 ## Quick start
 
