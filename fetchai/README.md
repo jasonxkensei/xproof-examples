@@ -81,7 +81,7 @@ what = xp.certify_outgoing(
 python main.py
 ```
 
-No API key needed — the demo uses mocked responses. To certify on-chain for real, replace `XProofClient.register()` with `XProofClient(api_key="pm_...")` obtained from [xproof.app](https://xproof.app).
+No API key needed — the demo uses mocked responses. To certify on-chain for real, replace `XProofClient.register()` with `XProofClient(api_key="pm_...")` obtained from [xproof.app/llms.txt](https://xproof.app/llms.txt).
 
 ## 4W metadata recorded per proof
 
@@ -95,5 +95,5 @@ No API key needed — the demo uses mocked responses. To certify on-chain for re
 ## Links
 
 - SDK: `pip install xproof`
-- Docs: [xproof.app/docs](https://xproof.app/docs)
+- Docs (LLM-readable): [xproof.app/llms.txt](https://xproof.app/llms.txt)
 - GitHub: [github.com/jasonxkensei/xproof](https://github.com/jasonxkensei/xproof)

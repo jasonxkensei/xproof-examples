@@ -31,9 +31,11 @@ npm install @xproof/xproof
 
 Get a free API key or start with the trial tier at **[xproof.app](https://xproof.app)**.
 
+AI agents: read **[xproof.app/llms.txt](https://xproof.app/llms.txt)** — one page, machine-readable, register + certify in under 2 minutes.
+
 ## Links
 
 - PyPI: [pypi.org/project/xproof](https://pypi.org/project/xproof)
 - npm: [npmjs.com/package/@xproof/xproof](https://www.npmjs.com/package/@xproof/xproof)
-- Docs: [xproof.app/docs](https://xproof.app/docs)
+- Docs (LLM-readable): [xproof.app/llms.txt](https://xproof.app/llms.txt)
 - GitHub (SDK): [github.com/jasonxkensei/xproof](https://github.com/jasonxkensei/xproof)

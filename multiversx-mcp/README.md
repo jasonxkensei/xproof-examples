@@ -131,4 +131,5 @@ These 15 tools from multiversx-sc-mcp involve wallet signing — each one should
 - xProof MCP: `https://xproof.app/mcp`
 - xProof on mcp-marketplace: [mcp-marketplace.io/server/io-github-jasonxkensei-xproof](https://mcp-marketplace.io/server/io-github-jasonxkensei-xproof)
 - MultiversX SC MCP: [github.com/psorinionut/multiversx-sc-mcp](https://github.com/psorinionut/multiversx-sc-mcp)
+- Docs (LLM-readable): [xproof.app/llms.txt](https://xproof.app/llms.txt)
 - Register (free): `POST https://xproof.app/api/agent/register`

@@ -78,5 +78,6 @@ console.log(`Proof: https://xproof.app/verify/${proof.proofId}`);
 ## Links
 
 - [xproof.app](https://xproof.app)
+- Docs (LLM-readable): [xproof.app/llms.txt](https://xproof.app/llms.txt)
 - [npm: xproof](https://www.npmjs.com/package/xproof)
 - [Vercel AI SDK](https://sdk.vercel.ai)
